@@ -1,0 +1,19 @@
+{
+  "RU": {
+    "full": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "upper": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "lower": "абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+    "len": 33
+  },
+  "EU": {
+    "full": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+    "upper": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "lower": "abcdefghijklmnopqrstuvwxyz",
+    "len": 26
+  },
+  "NUM": {
+    "full": "0123456789",
+    "upper": "0123456789",
+    "len": 10
+  }
+}
